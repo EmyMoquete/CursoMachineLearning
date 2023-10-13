@@ -1,5 +1,7 @@
 # CursoMachineLearning
 Cada carpeta contiene ejercicios simples de Python, dónde se trabaja desde lo más básico aumentando la dificultad según se avanza. 
+
+
 Carpeta del Día 11/10
 Ejercicio M5 - Cómo utilizar pandas
 Ejercicio Spacex01 - Obtención de datos, filtración y limpieza
